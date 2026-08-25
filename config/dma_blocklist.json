@@ -1,0 +1,4 @@
+{
+  "_comment": "Placeholder. Vul aan met VEN/DEV-paren van bekende DMA-cheat-hardware (bijv. specifieke FPGA-boards). Formaat en parsing: zie TODO in device_enum.cpp.",
+  "known_dma_devices": []
+}
