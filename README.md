@@ -59,5 +59,3 @@ cmake --build build --config Release
 - Geen aim-gedragsanalyse (menselijk vs. onnatuurlijk aim-patroon) —
   dat vereist game-side/server-side data die deze client niet heeft.
 
-Zie de eerdere projectdiscussie voor de architecturale afwegingen
-hierachter (kernel vs. user-mode, EAC/BattlEye SDK als alternatief).
